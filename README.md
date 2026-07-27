@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**xiongx-byte/xiongx-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Master of Network & Information Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Currently studying in Kyoto, Japan
+
+💻 Aspiring AI Engineer interested in AI Agents, LLM Applications and Backend Development.
+
+🌱 Currently building an AI Japanese Learning Platform.
+
+---
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- Python
+- Git
+- Linux
+- MySQL
+
+Currently Learning
+
+- AI Agents
+- LLM Applications
+- Software Engineering
+- Cloud Computing
+
+---
+
+## Current Projects
+
+🚀 AI Japanese Learning Platform
+
+Building an AI-powered platform for Japanese learners with conversational practice and personalized learning support.
+
+---
+
+## Languages
+
+- Chinese (Native)
+- English
+- Japanese (Learning)
+
+---
+
+## Contact
+Email: xxu94200@gmail.com
